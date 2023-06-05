@@ -1,5 +1,8 @@
 public class App {
     public static void main(String[] args) {
-        System.out.println("Открытие магазина ожидается через 2 дня");
+		
+		String str = "Открытие магазина не ожидается";
+		
+        System.out.println(str);
     }
 }
