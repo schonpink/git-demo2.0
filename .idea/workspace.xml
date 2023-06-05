@@ -86,7 +86,7 @@
                   <entry key="branch">
                     <value>
                       <list>
-                        <option value="origin/feature-b" />
+                        <option value="feature-a" />
                       </list>
                     </value>
                   </entry>
